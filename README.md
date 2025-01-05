@@ -7,17 +7,17 @@
 
 - 🔭 I’m currently working on [KrishiHub](https://krishiline.ommaniya.site)
 
-- 🌱 I’m currently learning **Angular Js**
+- 🌱 I’m currently learning **AngularJS**
 
-- 👨‍💻 All of my projects are available at [portfolio.ommaniya.site](https://portfolio.ommaniya.site)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://portfolio.ommaniya.site)
 
 - 📝 I regularly write articles on [ommaniya.site](https://ommaniya.site)
 
-- 💬 Ask me about **Python, Flask, React JS, Angular JS, Node Js**
+- 💬 Ask me about **Python, Flask, ReactJS, AngularJS, Node.js**
 
 - 📫 How to reach me **ommaniya01@gmail.com**
 
-- 📄 Know about my experiences [resumeLink](resumeLink)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12usj23OVJ-YjKTWr2DtiwKh8tqitw_o4/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
