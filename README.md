@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maniyaom" alt="maniyaom" /></a> </p>
 
-- 🔭 I’m currently working on [KrishiLine](krishiline.ommaniya.site)
+- 🔭 I’m currently working on [KrishiLine](https://krishiline.ommaniya.site)
 
 - 🌱 I’m currently learning **Angular Js**
 
-- 👨‍💻 All of my projects are available at [portfolio.ommaniya.site](portfolio.ommaniya.site)
+- 👨‍💻 All of my projects are available at [portfolio.ommaniya.site](https://portfolio.ommaniya.site)
 
-- 📝 I regularly write articles on [ommaniya.site](ommaniya.site)
+- 📝 I regularly write articles on [ommaniya.site](https://ommaniya.site)
 
 - 💬 Ask me about **Python, Flask, React JS, Angular JS, Node Js**
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/om-maniya-896222269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/om-maniya-896222269" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/om-maniya-896222269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/om-maniya-896222269" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/om-maniya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="om-maniya" height="30" width="40" /></a>
 <a href="https://instagram.com/_ommaniya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ommaniya" height="30" width="40" /></a>
 <a href="https://medium.com/@ommaniya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ommaniya" height="30" width="40" /></a>
@@ -36,7 +36,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ommaniya"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ommaniya" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maniyaom&show_icons=true&locale=en&layout=compact" alt="maniyaom" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=maniyaom&show_icons=true&locale=en&layout=compact" alt="maniyaom" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maniyaom&show_icons=true&locale=en" alt="maniyaom" /></p>
 
